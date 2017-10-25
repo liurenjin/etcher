@@ -71,5 +71,6 @@ else
   pip install --quiet -r requirements.txt
 
   make info
+  make babel
   make electron-develop
 fi
